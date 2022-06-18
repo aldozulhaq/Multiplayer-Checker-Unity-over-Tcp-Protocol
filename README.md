@@ -11,11 +11,11 @@ Client
 
 
 GameStart on Client
-![alt text](image/gamestart-on-client.png)
+![alt text](image/gamestart%20on%20client.png)
 
 
 GameStart on Host
-![alt text](image/gamestart-on-host.png)
+![alt text](image/gamestart%20on%20host.png)
 
 
 Piece become KING
