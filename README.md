@@ -11,20 +11,20 @@ Client
 
 
 GameStart on Client
-![alt text](image/gamestart on client.png)
+![alt text](image/gamestart-on-client.png)
 
 
 GameStart on Host
-![alt text](image/gamestart on host.png)
+![alt text](image/gamestart-on-host.png)
 
 
 Piece become KING
 ![alt text](image/king.png)
 
 
-Won
+If a player Won an alert will show then all player will be brought back to main menu after 3 second
 ![alt text](image/BTWin.png)
 
 
-If a player DC'ed
+If a player DC'ed an alert will show then the remaining player will be brought back to main menu after 3 second
 ![alt text](image/ifDC.png)
