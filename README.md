@@ -18,6 +18,11 @@ GameStart on Host
 ![alt text](image/gamestart%20on%20host.png)
 
 
+Playing
+![alt text](image/playing.png)
+![alt text](image/playing2.png)
+
+
 Piece become KING
 ![alt text](image/king.png)
 
