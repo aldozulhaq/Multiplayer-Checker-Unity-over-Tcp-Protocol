@@ -322,13 +322,25 @@ public class boardManager : MonoBehaviour
 
     void win(bool whiteWin)
     {
+        DataManager dataManager = GameObject.FindObjectOfType<DataManager>();
         overTime = Time.time;
 
         if (whiteWin)
+        {
             Alert("White Team Win");
+            if (isPlayerWhite)
+                dataManager.AddWin();
+            else
+                dataManager.AddLose();
+
+        }
         else
         {
             Alert("Black Team Win");
+            if (!isPlayerWhite)
+                dataManager.AddWin();
+            else
+                dataManager.AddLose();
         }
 
         gameIsOver = true;
