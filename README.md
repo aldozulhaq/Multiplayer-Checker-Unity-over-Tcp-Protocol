@@ -1,5 +1,5 @@
 # Multiplayer-Checker-Unity-over-Tcp-Protocol
-# Open PlayerDatabase folder and run "PlayerDatabase - Shortcut.exe" before opening the game
+Open PlayerDatabase folder and run "PlayerDatabase - Shortcut.exe" before opening the game
 
 Host
 ![alt text](image/hots1.png)
