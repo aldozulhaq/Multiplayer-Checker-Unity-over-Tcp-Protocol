@@ -3,6 +3,7 @@
 Tim :
 
 Muhammad Aldo Izzulhaq
+
 Anrio Imam Rafifqi
 
 Open PlayerDatabase folder and run "PlayerDatabase - Shortcut.exe" before opening the game
